@@ -1,6 +1,6 @@
 # FastAPISnapTrimPhoto
 
-PhotoCrop is a web application that allows users to crop their photos online. Users can upload an image, specify the desired width and height for cropping, and then download the cropped image.
+FastAPISnapTrimPhoto is a web application that allows users to crop their photos online. Users can upload an image, specify the desired width and height for cropping, and then download the cropped image.
 
 ## Features
 
